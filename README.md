@@ -7,4 +7,4 @@ I will be covering most commonly used optimizers, which are used frequently in m
  - 	Gradient Descent
  - 	Stochastic Gradient Descent
 
-document can be found here: 
+document can be found here: https://github.com/kartiksamprati/Understanding-the-optimizers/raw/master/Understanding%20the%20optimizers.docx
